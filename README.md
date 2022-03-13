@@ -1,2 +1,2 @@
 # hello
-test fot software engineering
+test for software engineering
